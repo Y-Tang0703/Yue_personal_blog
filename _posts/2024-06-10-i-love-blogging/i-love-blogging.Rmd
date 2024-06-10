@@ -6,3 +6,11 @@
 ## why not blogging
 
 no reason
+
+---
+output:
+  distill::distill_article:
+    self_contained: true
+---
+
+
