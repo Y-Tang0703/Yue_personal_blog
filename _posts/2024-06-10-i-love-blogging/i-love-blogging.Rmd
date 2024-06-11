@@ -1,3 +1,18 @@
+---
+name: "."
+title: "my Personal blog"
+description: |
+  my HDS blog
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
+---
+
 ## why do I love blogging
 
 1. Reason1
@@ -6,11 +21,4 @@
 ## why not blogging
 
 no reason
-
----
-output:
-  distill::distill_article:
-    self_contained: true
----
-
 
