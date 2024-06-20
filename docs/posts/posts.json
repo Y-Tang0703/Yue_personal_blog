@@ -1,14 +1,19 @@
 [
   {
     "path": "posts/2024-06-10-i-love-blogging/",
-    "title": "Untitled",
-    "description": {},
-    "author": [],
-    "date": "2024-06-11",
+    "title": "Welcome to my HDS blog",
+    "description": "Welcome to our new blog, my HDS blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Yue Tang",
+        "url": {}
+      }
+    ],
+    "date": "2024-06-06",
     "categories": [],
     "contents": "\nwhy do I love blogging\nReason1\nReason 2\nwhy not blogging\nno reason\n\n\n\n",
     "preview": {},
-    "last_modified": "2024-06-11T16:46:44+10:00",
+    "last_modified": "2024-06-20T13:35:20+10:00",
     "input_file": {}
   },
   {
@@ -17,15 +22,15 @@
     "description": "Welcome to our new blog, my HDS blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Yue Tang",
+        "url": {}
       }
     ],
     "date": "2024-06-06",
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2024-06-11T16:45:53+10:00",
+    "last_modified": "2024-06-20T13:34:56+10:00",
     "input_file": {}
   }
 ]
